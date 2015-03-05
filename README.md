@@ -6,5 +6,6 @@ ready to go.
 
 Table of Contents:
 GUIs.py - Creates a simple dynamic GUI Class that can have data added in by clicking a button
+CSV Reader.py - Contains a simple method to read a csv file into a double nested list
 
 If you use pieces of this code don't forget to note it in your colaboration statement. 
