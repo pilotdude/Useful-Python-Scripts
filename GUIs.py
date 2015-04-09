@@ -26,7 +26,7 @@ class GUI:
                              font=("Arial", 20))
         labelExample.pack()
         runIt = Button(self.topFrame,
-                       text = "SOME TEXT HERE - This Button makes it go!",
+                       text = "This Button makes it go!",
                        command = self.clicked)
         runIt.pack()
 
