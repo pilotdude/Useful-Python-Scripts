@@ -35,3 +35,6 @@ def readCSV(filelocation):
         data.append(temp)
 
     return data
+
+def SomeNewFunction(item):
+    print(item)
